@@ -1,7 +1,7 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# A Jornada da IA: Descobrindo novos clássicos 🌌
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este e-book de explora os escritores do século XIX no Brasil e sugere obras menos conhecidas deles.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
@@ -9,10 +9,10 @@ Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas 
 - Ferramenta **Libre Office** para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei o "ChatGPT" para sugerir uma listagem de contos e autores do século XIX inidicados para leitores jovens. Por outro lado, o "Leonardo AI" foi usado para gerar imagens de como os autores seriam hoje para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como autores do século XIX podem transformar jovens em leitores.
 
 [LINK PARA O E-BOOK AQUI]()
 
